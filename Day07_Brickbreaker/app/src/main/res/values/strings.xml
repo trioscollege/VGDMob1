@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BrickBreaker</string>
+    <string name="leaderboard_id" translatable="false">Leaderboards</string>
+    <string name="achievement_id" translatable="false">Achievement</string>
+
+    <string name="signin_other_error">Error With Sign in, Check Internet Connection </string>
+
+    <!-- app_id   978364572346  |   978364572346-->
+    <string name="app_id" translatable="false">978364572346</string>
+
+    <!-- package_name -->
+    <string name="package_name" translatable="false">com.triOSCollege.brickbreaker</string>
+    <!-- leaderboard HighScore -->
+    <string name="leaderboard_highscoreID" translatable="false">CgkIusXK2LwcEAIQAQ</string>
+
+    <!-- achievement Ridiculous -->
+    <string name="achievement_ridiculous" translatable="false">CgkIusXK2LwcEAIQAg</string>
+    <string name="default_web_client_id" translatable="false">978364572346-f5d49hcrracbedpa9g017ub5jd15k39t.apps.googleusercontent.com</string>
+
+
+</resources>
